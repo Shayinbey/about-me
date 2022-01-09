@@ -1,0 +1,161 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.contaienar{
+    margin: 0 auto;
+    width: 1400px;
+}
+.contienar{
+    height: 1000px;
+    text-align: center;
+    color: white;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-size: 30px;
+    background-color: cornflowerblue;
+}
+p{
+    text-transform: lowercase;
+}
+.icon{
+    width: 70px;
+    height: 70px;
+    padding: 20px;
+}
+.section{
+    width: 600px;
+    padding-left: 28%;
+}
+.section-list{
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+.nav{
+    padding-top: 10%;
+    background-image: url(./img/imageflag.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 700px;
+}
+.nav-itam{
+    list-style: none;
+}
+.nav-text{
+    text-align: center;
+    font-family: sans-serif;  
+    font-size: 200%;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 800px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.avatar-list{
+    padding: 0 50px;
+}
+.desc{
+    text-align: center;
+    font-family: sans-serif;
+    padding-bottom: 20px;
+}
+.picture{
+   width: 200px;
+   padding: 0 50px;
+   padding-top: 50px;
+}
+.li{
+   display: inline-block;
+}
+.quote{
+    text-decoration: none;
+    text-transform:capitalize;
+    font-family: sans-serif;
+    padding-left: 50px;
+}
+.avata-fouter{
+    text-align: center;
+    font-family: sans-serif;
+    color: dimgray;
+    padding: 0 50px;
+    padding-top: 5%;
+}
+.video{
+    padding: 200px;
+    background-image: url(./img/saidbek_arslonov.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 2000px;
+}
+.video h1{
+    font-family: sans-serif;
+    color: red;
+    text-align: center;
+}
+.iframe{
+    padding: 0 200px;
+}
+.main{
+    width: 100%;
+    height: 1000px;
+    background-color: cornflowerblue;
+    padding-left: 300px;
+    padding-top: 100px;
+}
+.main-list{
+    width: 700px;
+    height: 800px;
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-left: 100px;
+    font-family: sans-serif;
+    background-color: white;
+    background-position: 200px;
+}
+.main-list p{
+    text-align: center;
+}
+.form{
+    padding: 10 50px;
+    padding-left: 50px;
+}
+.form-action{
+    padding: 0 170px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.main-form-submit{
+    margin-top: 20px;
+    padding: 0 230px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    background-color: cornflowerblue;
+    border: 1px solid cornflowerblue;
+}
+.main-text{
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 40px;
+    padding: 30px 0px;
+    color: dimgray;
+    border-top: 2px solid black;
+    width: 400px;
+    
+}
+.foter-h1{
+    text-align: center;
+    font-family: sans-serif;
+}
+.main-text-link{
+    margin: 3px;
+}
+.foter-item{
+    display: inline-block;
+    text-align: center; 
+    padding: 20px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
